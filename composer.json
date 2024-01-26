@@ -26,9 +26,8 @@
     },
     "require-dev": {
         "orchestra/testbench": "^5.2",
-        "laravel/tinker": "^2.4",
-        "illuminate/support": "^7.12",
-        "laravel/laravel": "^7.12"
+        "illuminate/support": "^7.12|^8.0|^9.0|^10.0",
+        "laravel/laravel": "^7.12|^8.0|^9.0|^10.0"
     },
     "extra": {
         "laravel": {
