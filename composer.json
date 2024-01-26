@@ -1,18 +1,18 @@
 {
-    "name": "jeremykenedy/laravel-users",
+    "name": "grininc/laravel-users",
     "description": "Laravel Users Management CRUD Package",
     "keywords": ["laravel", "users", "management", "CRUD"],
     "license": "MIT",
     "type": "package",
     "authors": [
         {
-            "name": "jeremykenedy",
-            "email": "jeremykenedy@gmail.com"
+            "name": "GrinInc",
+            "email": "support@grin.co"
         }
     ],
     "require": {
-        "php": ">=7.1.3|^8.0|^8.1|^8.2",
-        "laravelcollective/html": "^5.4|^5.5|^5.6|^5.7|^5.8|^6.0|^7.0|^8.0|^9.0|^10.0"
+        "php": "^8.0|^8.1|^8.2",
+        "laravelcollective/html": "^6.0"
     },
     "autoload": {
         "psr-4": {
